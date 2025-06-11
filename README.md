@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, I am Berkay Koc 👋
+
+- [GitHub Fundamentals Certification](https://www.credly.com/go/qR06DW3L)
 
 <!--
 **aberkay-koc/aberkay-koc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
